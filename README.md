@@ -11,7 +11,7 @@
   ### Presentation 5:
    * Signal, Memory Management, Process Addresss Space, Page Cache
   ### Presentation 6:
-   * Virtual File System, I/O, Block, Device
+   * Virtual File System, I/O Block, Device driver module
   ### Presentation 7:
    * Trace code of iio device : dht11
 
